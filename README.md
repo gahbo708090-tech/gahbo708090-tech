@@ -1,4 +1,4 @@
-## Hi there 👋
+https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=blackhttps://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white## Hi there 👋
 
 <!--
 **gahbo708090-tech/gahbo708090-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
